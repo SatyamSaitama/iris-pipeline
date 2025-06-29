@@ -1,0 +1,11 @@
+2025-06-22 17:21:29,220 DEBUG    root            Loaded Command Group: ['gcloud', 'config']
+2025-06-22 17:21:30,944 DEBUG    root            Loaded Command Group: ['gcloud', 'config', 'set']
+2025-06-22 17:21:30,948 DEBUG    root            Running [gcloud.config.set] with arguments: [SECTION/PROPERTY: "project", VALUE: "bright-primacy-461312-t2"]
+2025-06-22 17:21:31,121 DEBUG    urllib3.connectionpool Starting new HTTPS connection (1): cloudresourcemanager.googleapis.com:443
+2025-06-22 17:21:31,215 DEBUG    urllib3.connectionpool https://cloudresourcemanager.googleapis.com:443 "GET /v1/projects/bright-primacy-461312-t2?alt=json HTTP/11" 403 None
+2025-06-22 17:21:31,221 WARNING  root            [336664030467-compute@developer.gserviceaccount.com] does not have permission to access projects instance [bright-primacy-461312-t2] (or it may not exist): The caller does not have permission. This command is authenticated as 336664030467-compute@developer.gserviceaccount.com which is the active account specified by the [core/account] property
+2025-06-22 17:24:10,145 INFO     ___FILE_ONLY___ 
+
+Command killed by keyboard interrupt
+
+

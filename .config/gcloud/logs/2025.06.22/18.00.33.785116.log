@@ -1,0 +1,10 @@
+2025-06-22 18:00:33,789 DEBUG    root            Loaded Command Group: ['gcloud', 'config']
+2025-06-22 18:00:33,859 DEBUG    root            Loaded Command Group: ['gcloud', 'config', 'set']
+2025-06-22 18:00:33,862 DEBUG    root            Running [gcloud.config.set] with arguments: [--quiet: "True", SECTION/PROPERTY: "project", VALUE: "operating-realm-460905-q8"]
+2025-06-22 18:00:33,912 DEBUG    urllib3.connectionpool Starting new HTTPS connection (1): cloudresourcemanager.googleapis.com:443
+2025-06-22 18:00:33,976 DEBUG    urllib3.connectionpool https://cloudresourcemanager.googleapis.com:443 "GET /v1/projects/operating-realm-460905-q8?alt=json HTTP/11" 200 None
+2025-06-22 18:00:33,978 INFO     ___FILE_ONLY___ Updated property [core/project].
+
+2025-06-22 18:00:33,979 DEBUG    root            Chosen display Format:default
+2025-06-22 18:00:33,980 INFO     root            Display format: "default"
+2025-06-22 18:00:33,980 DEBUG    root            SDK update checks are disabled.
