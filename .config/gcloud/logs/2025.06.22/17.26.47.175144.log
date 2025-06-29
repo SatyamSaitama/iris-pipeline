@@ -1,0 +1,17 @@
+2025-06-22 17:26:47,178 DEBUG    root            Loaded Command Group: ['gcloud', 'config']
+2025-06-22 17:26:47,257 DEBUG    root            Loaded Command Group: ['gcloud', 'config', 'set']
+2025-06-22 17:26:47,263 DEBUG    root            Running [gcloud.config.set] with arguments: [--quiet: "True", SECTION/PROPERTY: "project", VALUE: "your-project-id"]
+2025-06-22 17:26:47,339 DEBUG    urllib3.connectionpool Starting new HTTPS connection (1): cloudresourcemanager.googleapis.com:443
+2025-06-22 17:26:47,411 DEBUG    urllib3.connectionpool https://cloudresourcemanager.googleapis.com:443 "GET /v1/projects/your-project-id?alt=json HTTP/11" 403 None
+2025-06-22 17:26:47,417 WARNING  root            [336664030467-compute@developer.gserviceaccount.com] does not have permission to access projects instance [your-project-id] (or it may not exist): The caller does not have permission. This command is authenticated as 336664030467-compute@developer.gserviceaccount.com which is the active account specified by the [core/account] property
+2025-06-22 17:26:47,419 INFO     ___FILE_ONLY___ Updated property [core/project].
+
+2025-06-22 17:26:47,421 DEBUG    root            Chosen display Format:default
+2025-06-22 17:26:47,422 INFO     root            Display format: "default"
+2025-06-22 17:26:47,422 DEBUG    root            SDK update checks are disabled.
+2025-06-22 17:26:47,426 INFO     ___FILE_ONLY___ 
+
+To take a quick anonymous survey, run:
+  $ gcloud survey
+
+

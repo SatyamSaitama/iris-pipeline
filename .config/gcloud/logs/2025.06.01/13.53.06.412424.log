@@ -1,0 +1,8 @@
+2025-06-01 13:53:06,415 DEBUG    root            Loaded Command Group: ['gcloud', 'config']
+2025-06-01 13:53:06,418 DEBUG    root            Loaded Command Group: ['gcloud', 'config', 'config_helper']
+2025-06-01 13:53:06,421 DEBUG    root            Running [gcloud.config.config-helper] with arguments: [--format: "value(credential.access_token)"]
+2025-06-01 13:53:06,447 DEBUG    root            Chosen display Format:default value(credential.access_token)
+2025-06-01 13:53:06,448 INFO     root            Display format: "default value(credential.access_token)"
+2025-06-01 13:53:06,467 INFO     ___FILE_ONLY___ ya29.c.c0ASRK0Gb2zd3Wg5axHtg3Zi11t2K2Hs4R63VTppNUPd86bz4xpelCxqTIiXxpFpvDluLwATh0-guhPkDasyfHqxpUE_wnGnwdFcR2IjzM5-A6O2bjlPyH6Rya83sDHBn5o8l440GiDkGn4NlPtnmOyx_jW6J3Yp1073I267WqH42hyYK_MZYPOcAJPRtOyeSSA4nTzjnaGtLUOxXD0a0ARTSiGblC99P18OnzUIsbaJoAP5hWCJkHBWDVuTok1MpogoYetJAk-1JmtMZvbWRDWUf2wGxSsRGxdfXp4PIB2oS7dar4y9RHbT9CqU5LNITvp622HiFIaIndPufy17ULR_0pXIStpOvRcWXOQSGuwVkIm3bJqIhjCEPy6SL14pE3-LHHlD3F4sFXbCaYIk8LG413Dgs4F8ib2dkXf8oSmt282bt-eFfv-rqdgp96b1ZB_ie-5ZaQkQwB2YIRRMWwS7-pkJyuXdB7vchfW07aXdoUO99u9s4oX_0nYxWIncoo6orQtyFMF6qppZkduBr5OY35m8WpMV4Mo6Jm7fmnvrOvq2F--WrorImiVyoej7B9XBkvrgiXlaSr3XbRWighv_rRdof-d8amxpYuFmjWZ6nhIpOy09aMj5dxfQw-kV01WpJenvklc9YboQd4R1scaQ7iWw6JbU7zrp5ha_hdp4fn2py2wVR7nle3ooznkYgVaqt1dB6hzlySkek4BlwqVuM56gas-_2J3tm_I1zWU_IkYf2WI7IOMnzh-Uh9Q81VFmOYhrc00jb763aZBQfZpIS2_I53trrthftUJyx5_xxz_g48R1gq7n71V16iXmSQYfVtFsqB2FFsImmlW9B-2SFludRyprm1spJySIBIgjZgg2Q6x6256g_v7rIexgrwfFyOF6bzk1-WdukmsOxmtQdZOZFu40_m3oyr3BxbUnR7bdpX2F2s8m6V0jlW52gUV1Zx55xoe3aj2xFvnxQWq1ozpJ2ts2VpOX6uZqsZkU47w14O5xs5iww
+
+2025-06-01 13:53:06,467 DEBUG    root            SDK update checks are disabled.

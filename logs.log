@@ -1,0 +1,50 @@
+2025-06-22 16:03:05,627:WARNING:/opt/conda/lib/python3.10/site-packages/pycaret/utils/_dependencies.py:60: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  ver = LooseVersion(dist.metadata["Version"])
+
+2025-06-22 16:03:11,900:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-06-22 16:03:11,900:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-06-22 16:03:11,900:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-06-22 16:03:11,900:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-06-22 16:03:12,289:WARNING:/opt/conda/lib/python3.10/site-packages/yellowbrick/style/colors.py:35: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  mpl_ge_150 = LooseVersion(mpl.__version__) >= "1.5.0"
+
+2025-06-22 16:03:12,290:WARNING:/opt/conda/lib/python3.10/site-packages/setuptools/_distutils/version.py:336: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  other = LooseVersion(other)
+
+2025-06-22 16:03:12,291:WARNING:/opt/conda/lib/python3.10/site-packages/yellowbrick/style/rcmod.py:31: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  mpl_ge_150 = LooseVersion(mpl.__version__) >= "1.5.0"
+
+2025-06-22 16:03:14,046:WARNING:/opt/conda/lib/python3.10/site-packages/scikitplot/plotters.py:33: DeprecationWarning: This module was deprecated in version 0.3.0 and its functions are spread throughout different modules. Please check the documentation and update your function calls as soon as possible. This module will be removed in 0.4.0
+  warnings.warn("This module was deprecated in version 0.3.0 and its functions "
+
+2025-06-22 16:33:03,636:WARNING:/var/tmp/ipykernel_14054/2916992943.py:10: DeprecationWarning: Entity value_type will be mandatory in the next release. Please specify a value_type for entity 'sample_id'.
+  iris_entity = Entity(name="sample_id", join_keys=["sample_id"])
+
+2025-06-22 16:33:56,720:WARNING:/opt/conda/lib/python3.10/site-packages/IPython/core/magics/osm.py:417: UserWarning: using dhist requires you to install the `pickleshare` library.
+  self.shell.db['dhist'] = compress_dhist(dhist)[-100:]
+
+2025-06-22 16:35:09,981:WARNING:/opt/conda/lib/python3.10/site-packages/pydantic/_internal/_fields.py:192: UserWarning: Field name "vector_enabled" in "SqliteOnlineStoreConfig" shadows an attribute in parent "VectorStoreConfig"
+  warnings.warn(
+
+2025-06-22 16:35:09,986:WARNING:/opt/conda/lib/python3.10/site-packages/feast/repo_config.py:268: DeprecationWarning: The serialization version 2 and below will be deprecated in the next release. Specifying `entity_key_serialization_version` to 3 is recommended.
+  warnings.warn(
+
+2025-06-22 16:37:34,281:WARNING:/opt/conda/lib/python3.10/site-packages/feast/repo_config.py:268: DeprecationWarning: The serialization version 2 and below will be deprecated in the next release. Specifying `entity_key_serialization_version` to 3 is recommended.
+  warnings.warn(
+
+2025-06-22 16:41:44,991:WARNING:/opt/conda/lib/python3.10/site-packages/feast/repo_config.py:268: DeprecationWarning: The serialization version 2 and below will be deprecated in the next release. Specifying `entity_key_serialization_version` to 3 is recommended.
+  warnings.warn(
+
+2025-06-22 16:42:37,303:WARNING:/var/tmp/ipykernel_14054/154257899.py:63: DeprecationWarning: Entity value_type will be mandatory in the next release. Please specify a value_type for entity 'sample_id'.
+  sample_entity = Entity(name="sample_id", join_keys=["sample_id"])
+
+2025-06-22 17:19:31,225:WARNING:/opt/conda/lib/python3.10/site-packages/IPython/core/magics/osm.py:417: UserWarning: using dhist requires you to install the `pickleshare` library.
+  self.shell.db['dhist'] = compress_dhist(dhist)[-100:]
+
+2025-06-22 17:31:43,472:WARNING:/opt/conda/lib/python3.10/site-packages/IPython/core/magics/osm.py:417: UserWarning: using dhist requires you to install the `pickleshare` library.
+  self.shell.db['dhist'] = compress_dhist(dhist)[-100:]
+

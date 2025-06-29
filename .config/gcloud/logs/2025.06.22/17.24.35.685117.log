@@ -1,0 +1,12 @@
+2025-06-22 17:24:35,687 DEBUG    root            Loaded Command Group: ['gcloud', 'config']
+2025-06-22 17:24:35,745 DEBUG    root            Loaded Command Group: ['gcloud', 'config', 'set']
+2025-06-22 17:24:35,748 DEBUG    root            Loaded Command Group: ['gcloud', 'alpha', 'config']
+2025-06-22 17:24:35,750 DEBUG    root            Loaded Command Group: ['gcloud', 'alpha', 'config', 'set']
+2025-06-22 17:24:35,752 DEBUG    root            Loaded Command Group: ['gcloud', 'beta', 'config']
+2025-06-22 17:24:35,754 DEBUG    root            Loaded Command Group: ['gcloud', 'beta', 'config', 'set']
+2025-06-22 17:24:35,756 DEBUG    root            Loaded Command Group: ['gcloud', 'preview', 'config']
+2025-06-22 17:24:35,758 DEBUG    root            Loaded Command Group: ['gcloud', 'preview', 'config', 'set']
+2025-06-22 17:24:35,759 ERROR    root            (gcloud.config.set) unrecognized arguments: -y 
+
+To search the help text of gcloud commands, run:
+  gcloud help -- SEARCH_TERMS
