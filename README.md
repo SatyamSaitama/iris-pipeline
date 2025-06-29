@@ -3,15 +3,15 @@
 
 ```bash
 # Initialize repo
-git init iris-homework
-cd iris-homework
+git init iris-week-2
+cd iris-week-2
 git checkout -b main
 echo "# Iris Homework" > README.md
 git add .
 git commit -m "Initial commit on main"
 
 # Push to GitHub
-gh repo create iris-homework --public --source=. --remote=origin
+gh repo create iris-week-2 --public --source=. --remote=origin
 git push -u origin main
 
 # Create dev branch
@@ -24,7 +24,7 @@ git push -u origin dev
 ## 2. **Project Structure**
 
 ```
-iris-homework/
+iris-week-2/
 │
 ├── data/
 │   └── iris.csv
